@@ -1,0 +1,101 @@
+
+*{
+	font-family: "Baloo Paaji";
+}
+
+.fondoUno{
+	background-color: #037F99;
+	color: #FFF;
+	padding: 2% 0; 
+}
+
+.enlace{
+	text-decoration: none;
+	font-family: 'Prompt';
+	font-size: 14px;
+	color:#FFF;
+}
+
+.menu{
+	display: inline-block;
+	padding-right: 2%;
+}
+
+.coral{
+	color:#FF7673;
+}
+
+.cabec{
+	font-size: 30px;
+}
+
+.fondoDos{
+	background: url('../img/img-1.jpg')no-repeat;
+	background-size: cover;	
+}
+
+.titulo{
+	background-color: #037F99;
+	opacity: 0.8;
+	margin: 5% 10%;	
+}
+
+.soft{
+	font-size: 75px;
+	text-align: center;
+	color:#FF7673;
+	font-weight: bold;
+	padding-bottom: 5%;
+}
+
+.live{
+	text-align: center;
+	font-family: "Prompt";
+	color: white;
+	font-style: italic;	
+	padding-bottom: 5%;
+}
+
+.foto{
+	width: 100%;	
+}
+
+.fondoTres{
+	background-color: #037F99;
+	border: 9px solid #D7F6F6;	 	
+}
+
+.subtitulo{
+	text-align: center;
+	color:#FF7673;	
+}
+
+.parrafoDos{
+	text-align: center;
+	font-family: "Prompt";
+	font-size: 14px;
+	color: white;
+	padding: 8%;	
+}
+
+
+.caja{
+	border: 9px solid #037F99;	
+}
+
+/*conejitos*/
+.cajaconejos{
+	background-image: url(../img/bunny-head.png);
+	margin-top: 2%;
+	background-size: 100px;
+	height: 50px;
+}
+.foot{
+	text-align: center;
+	font-family: 'Prompt', sans-serif;
+	padding:1.5%;
+	background-color: #037F99;
+	color: white;
+	font-size: 16px;
+	border-top: 2px solid #FF7673;
+}
